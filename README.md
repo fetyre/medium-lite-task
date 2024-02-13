@@ -16,7 +16,7 @@ npx prisma generate
 Installation
 $ npm install
 
-Running the app with Docker
+Running the app 
 # development
 $ npm run start
 
